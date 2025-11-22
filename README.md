@@ -14,11 +14,6 @@ I’ve completed **Digital Marketing from Aptech Institue**, **Power BI**, and I
 
 ---
 
-## 🌌 Futuristic Header
-<img src="https://i.ibb.co/8xJ6p9n/cyber-banner.jpg" width="100%"/>
-
----
-
 # 🚀 Tech + Business = My Zone
 
 - 🔹 Future-focused learner  
@@ -83,9 +78,33 @@ I’ve completed **Digital Marketing from Aptech Institue**, **Power BI**, and I
 ---
 
 # 📊 GitHub Stats  
-> Replace the username if needed.
 
-```md
-![Zain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zainsohail-star&show_icons=true&theme=tokyonight)
+<!-- Neon Glow GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zainsohail-star&show_icons=true&theme=radical&hide_border=true&border_radius=12" width="55%" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zainsohail-star&layout=compact&theme=tokyonight)
+<!-- Streak Stats -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=zainsohail-star&theme=neon-dark&hide_border=true&border_radius=12" width="55%" />
+</p>
+
+<!-- Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zainsohail-star&theme=matrix&no-frame=true&no-bg=true&row=1&column=6" width="100%" />
+</p>
+
+<!-- Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainsohail-star&layout=compact&theme=radical&hide_border=true&border_radius=12" width="45%" />
+</p>
+
+<h1 align="left" style="font-size: 40px; font-weight: 800;">
+🧬 <b>LANGUAGES I'M LEARNING</b>
+</h1>
+<img align="right" src="https://i.ibb.co/4Z1rR6M/futuristic-avatar.png" width="180"/>
+
+- 🐍 **Basic Python**  
+- ⚡ **Basic JavaScript**  
+- 🤖 Learning AI Tools & Automation
+
